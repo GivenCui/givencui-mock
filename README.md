@@ -5,6 +5,7 @@
 - [mockjs](http://mockjs.com/)
 - [l-mock](https://github.com/fwon/l-mock)
 - [yapi](https://github.com/ymfe/yapi)
+- [lazy-mock](https://github.com/wjkang/lazy-mock.git)
   
 
 ## 学习记录
